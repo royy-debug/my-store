@@ -5,6 +5,10 @@
   flex-direction: column;
   height: 100vh;
   padding: 20px;
+  &__error{
+    color: #d31331;
+    margin-bottom: 10px;
+  }
 
   &__title {
     font-size: 32px;
